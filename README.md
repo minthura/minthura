@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Min Thura</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+, I'm Min Thura</h1>
 <h3 align="center">Mobile apps developer</h3>
 
 - 🔭 I’m currently working on **mobile money apps.**
@@ -6,6 +7,11 @@
 - 🌱 I’m currently learning **Flutter.**
 
 - ⚡ Fun fact **I'm Dota player.**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minthura&layout=compact)](https://github.com/minthura)
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=minthura)](https://github.com/minthura)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
