@@ -12,6 +12,22 @@
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=minthura)](https://github.com/minthura)
 
+<h3 align="left">Skills:</h3>
+
+![](https://img.shields.io/badge/-Java-informational?style=flat&logo=java&logoColor=white&color=success) ![](https://img.shields.io/badge/-Swift-informational?style=flat&logo=swift&logoColor=white&color=success) ![](https://img.shields.io/badge/-Dart-informational?style=flat&logo=dart&logoColor=white&color=success) ![](https://img.shields.io/badge/-PHP-informational?style=flat&logo=php&logoColor=white&color=success) ![](https://img.shields.io/badge/-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=success) ![](https://img.shields.io/badge/-HTML5-informational?style=flat&logo=html5&logoColor=white&color=success) ![](https://img.shields.io/badge/-CSS3-informational?style=flat&logo=css3&logoColor=white&color=success) ![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=success) ![](https://img.shields.io/badge/-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=success)
+
+![](https://img.shields.io/badge/-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=blue) ![](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=blue) ![](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
+
+![](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=blueviolet) ![](https://img.shields.io/badge/-JSON-informational?style=flat&logo=json&logoColor=white&color=blueviolet) ![](https://img.shields.io/badge/-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=blueviolet) ![](https://img.shields.io/badge/-Jira-informational?style=flat&logo=jira&logoColor=white&color=blueviolet) ![](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=white&color=blueviolet) ![](https://img.shields.io/badge/-Windows-informational?style=flat&logo=windows&logoColor=white&color=blueviolet) ![](https://img.shields.io/badge/-macOS-informational?style=flat&logo=macos&logoColor=white&color=blueviolet) 
+
+<h3 align="left">Certifications:</h3>
+
+![](https://img.shields.io/badge/Microsoft-Certified%20Programming%20in%20C%23.NET%20Professional-informational?style=for-the-badge&logo=microsoft&logoColor=white&color=red)<br/>
+![](https://img.shields.io/badge/Microsoft-Certified%20ASP.NET%20MVC%20Professional-informational?style=for-the-badge&logo=microsoft&logoColor=white&color=red)</br>
+![](https://img.shields.io/badge/Microsoft-Certified%20HTML5%2C%20CSS3%20and%20JavaScript%20Professional-informational?style=for-the-badge&logo=microsoft&logoColor=white&color=red)</br>
+![](https://img.shields.io/badge/Oracle-Certified%20Java%20SE%207%20Programmer-informational?style=for-the-badge&logo=oracle&logoColor=white&color=red)</br>
+![](https://img.shields.io/badge/Udemy-Certified%20Flutter%20Developer-informational?style=for-the-badge&logo=udemy&logoColor=white&color=red)</br>
+![](https://img.shields.io/badge/Udemy-Certified%20Mastering%20Microcontroller%20with%20Embedded%20Driver%20Developer-informational?style=for-the-badge&logo=udemy&logoColor=white&color=red)</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
