@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **mobile money apps.**
 
-- 🌱 I’m a **Flutter enthusiast.**
+- 💖 I’m a **Flutter enthusiast.**
 
 - ⚡ Fun fact **I like travelling.**
 
