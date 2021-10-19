@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **mobile money apps.**
 
-- 🌱 I’m currently learning **Flutter.**
+- 🌱 I’m a **Flutter enthusiast.**
 
-- ⚡ Fun fact **I'm Dota player.**
+- ⚡ Fun fact **I like travelling.**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minthura&layout=compact)](https://github.com/minthura)
 
