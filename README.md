@@ -2,7 +2,7 @@
 , I'm Min Thura</h1>
 <h3 align="center">Mobile apps developer</h3>
 
-- 🔭 I’m currently working on **mobile money apps.**
+- 🔭 I’m currently working on **crypto currency apps.**
 
 - 💖 I’m a **Flutter enthusiast.**
 
