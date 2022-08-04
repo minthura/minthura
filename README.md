@@ -8,6 +8,8 @@
 
 - ⚡ Fun fact **I like travelling.**
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=minthura&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minthura&layout=compact)](https://github.com/minthura)
 
 <h3 align="left">Skills:</h3>
