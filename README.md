@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-, I'm Min Thura</h1>
-<h3 align="center">Mobile apps developer</h3>
+, I'm Min Thu Ya</h1>
+<h3 align="center">Mobile Application Engineer</h3>
 
 - 🔭 I’m currently crafting on a **popular banking app.**
 
