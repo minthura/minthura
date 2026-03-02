@@ -6,10 +6,6 @@
 
 - 💖 I’m a **Flutter enthusiast.**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=minthura&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minthura&layout=compact)](https://github.com/minthura)
-
 <h3 align="left">Skills:</h3>
 
 ![](https://img.shields.io/badge/-Java-informational?style=flat&logo=java&logoColor=white&color=success) ![](https://img.shields.io/badge/-Swift-informational?style=flat&logo=swift&logoColor=white&color=success) ![](https://img.shields.io/badge/-Dart-informational?style=flat&logo=dart&logoColor=white&color=success) ![](https://img.shields.io/badge/-PHP-informational?style=flat&logo=php&logoColor=white&color=success) ![](https://img.shields.io/badge/-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=success) ![](https://img.shields.io/badge/-HTML5-informational?style=flat&logo=html5&logoColor=white&color=success) ![](https://img.shields.io/badge/-CSS3-informational?style=flat&logo=css3&logoColor=white&color=success) ![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=success) ![](https://img.shields.io/badge/-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=success)
