@@ -2,11 +2,9 @@
 , I'm Min Thura</h1>
 <h3 align="center">Mobile apps developer</h3>
 
-- 🔭 I’m currently working on **crypto currency apps.**
+- 🔭 I’m currently crafting on a **popular banking app.**
 
 - 💖 I’m a **Flutter enthusiast.**
-
-- ⚡ Fun fact **I like travelling.**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=minthura&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
